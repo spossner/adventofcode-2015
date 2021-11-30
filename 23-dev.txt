@@ -1,0 +1,5 @@
+inc a
+jmp +1
+jio a, +2
+tpl a
+inc a
